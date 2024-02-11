@@ -1,0 +1,71 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 2px solid black;
+     /* Display */
+    /* display: inline-block; */
+    /* display: block; */
+    /* display: inline; */
+    /* display: none; */
+
+
+   
+}
+
+.demo-box {
+    background-color: #f0f0f0;
+    padding: 20px;
+    margin-top: 20px;
+    border: 1px solid red;
+   
+     /* Positioning */
+    /* position: relative; */
+    /* position: absolute; */
+    top: 50px;
+    left: 50px;
+    right: 50px;
+    bottom: 50px;
+}
+
+
+
+.demo-text {
+
+    /* Font Properties */
+    /* font-size: 20px; */
+    font-family: Arial, Helvetica, sans-serif;
+    /* font-weight: bold; */
+    font-style: italic;
+    /* text-decoration: overline; */
+
+    /* Color Properties */
+    color: blue;
+    /* background-color: yellow; */
+
+    /* Text Alignment */
+    text-align: center;
+    
+      
+   
+    
+    
+    /* Others */
+    text-transform: capitalize;
+    /* text-shadow: 2px 2px 5px #c01f1f; */
+    /* line-height: 1.5; */
+    /* opacity: 0.5; */
+    /* transform: rotate(45deg); */
+
+   
+}
+
+
+.second-div {
+    /* Box Model */
+    /* padding: 10px; */
+    /* margin: 10px; */
+    /* border: 2px solid black; */
+    /* border-radius: 10px; */
+}
+
